@@ -1,1 +1,1 @@
-# Tradex
+Initial Tradex RL trading platform project.
